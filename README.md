@@ -8,4 +8,4 @@ Ultimate (eventually) Shopify Framework (not much here yet, just a Slate fork)
 • Fontawesome Icons
 • Dynamic Google Fonts
 • Custom Sections
-• Dozens of others! :)
+• Dozens of others!
